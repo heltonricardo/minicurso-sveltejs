@@ -1,4 +1,4 @@
-# Svelte Secomp IFSP-CJO 2022
+# Svelte Secomp IFSP-CJO 2022 👨‍🏫
 
 Repositório clonado de [`sveltejs/template`](https://github.com/sveltejs/template) e adaptado para o minicurso.
 
